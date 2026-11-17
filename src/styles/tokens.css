@@ -1,0 +1,40 @@
+:root {
+  --rosa-500: #EC7680;
+  --rosa-600: #D95F6B;
+  --rosa-700: #C24B58;
+  --link: #EA6D77;
+  --salmao-300: #F0B3B0;
+  --rosa-100: #FBEEEE;
+  --rosa-50: #FCF4F2;
+  --rosa-borda: #F0B3B0;
+  --rosa-base: #F9E1E1;     /* faixa mais escura na base do bloco da imagem */
+
+  --marrom-900: #592D27;
+  --marrom-950: #321713;
+  --marrom-500: #815F59;
+  --marrom-300: #BFA9A6;
+
+  --branco: #FFFFFF;
+  --fundo: #FFF9F8;
+
+  --sucesso: #86CF7F;
+  --sucesso-texto: #2F6B2A;
+  --erro: #DA3738;
+  --erro-fundo: #FDECEC;
+
+  --fonte-logo: 'Lobster Two', 'Pacifico', cursive;
+  --fonte-texto: 'Outfit', system-ui, sans-serif;
+
+  --sp-1: 4px; --sp-2: 8px; --sp-3: 12px; --sp-4: 16px;
+  --sp-5: 24px; --sp-6: 32px; --sp-7: 48px; --sp-8: 64px;
+
+  --raio-sm: 8px;
+  --raio-md: 16px;
+  --raio-lg: 24px;
+  --raio-pill: 999px;
+  --sombra-card: 0 2px 10px rgba(89, 45, 39, .08);
+  --sombra-toast: 0 6px 20px rgba(89, 45, 39, .18);
+
+  --largura-max: 1160px;
+  --foco: 0 0 0 3px rgba(236, 118, 128, .45);
+}
